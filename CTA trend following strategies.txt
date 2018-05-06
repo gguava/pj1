@@ -1,3 +1,5 @@
 http://www-stat.wharton.upenn.edu/~steele/Courses/434/434Context/Momentum/TrendFollowing/citigrouptrendfollowing.pdf
 https://www.sigmanalysis.com/pdf/Note-Trend_Following_with_Managed_Futures-July_2016.pdf
 https://www.trendfollowing.com/whitepaper/quest.pdf
+
+http://www.wisdomtrading.com/assets/How-to-become-a-CTA.pdf
